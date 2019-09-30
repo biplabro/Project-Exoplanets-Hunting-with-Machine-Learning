@@ -28,14 +28,15 @@ from sklearn.preprocessing import LabelEncoder
 labelencoder_X = LabelEncoder()
 X[:,0] = labelencoder_X.fit_transform(X[:,0])
 dfX2 = pd.DataFrame(X)
-from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import OneHotEncoder 
+#Creating Dummy Var.s for each of the countries
 onehotencoder = OneHotEncoder(categorical_features = [0])
 X = onehotencoder.fit_transform(X).toarray()
 dfX3 = pd.DataFrame(X)
 labelencoder_y = LabelEncoder()
 y = labelencoder_y.fit_transform(y)
 dfy3 = pd.DataFrame(y)
-
+ 
 
 
 
