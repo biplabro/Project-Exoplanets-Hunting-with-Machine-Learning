@@ -1,5 +1,5 @@
 # AI-ML-DS_exercises
-Would love to learn, share, collaborate & implement.
+Llearn, share, collaborate & implement.
 ...
 ..
 .
