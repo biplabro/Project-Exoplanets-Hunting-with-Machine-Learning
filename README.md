@@ -1,4 +1,4 @@
-# git-ML-python-exercises
+# AI-ML-DS_exercises
 Would love to learn, share, collaborate & implement.
 ...
 ..
