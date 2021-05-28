@@ -1,9 +1,0 @@
-Summary
-
-1. Import library
-2. Import dataset
-3. Fix missing data
-4. Encode categorical data
-5. Split the dataset into training set & test set.
-6. Feature scaling
-
