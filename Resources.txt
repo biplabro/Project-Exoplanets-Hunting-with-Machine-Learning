@@ -4,6 +4,13 @@ Manage Conda virtual environments:
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 
+jupyter notebook commands:
+
+shift + Enter  run & goto next cell 
+
+alt + Enter = run cell & insert cell below
+
+
 
 
 
