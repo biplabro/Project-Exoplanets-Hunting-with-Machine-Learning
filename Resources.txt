@@ -1,5 +1,8 @@
 https://towardsdatascience.com/what-is-feature-scaling-why-is-it-important-in-machine-learning-2854ae877048
 
+Manage Conda virtual environments:
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
 
 
 
