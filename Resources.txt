@@ -1,8 +1,11 @@
-https://towardsdatascience.com/what-is-feature-scaling-why-is-it-important-in-machine-learning-2854ae877048
-
 Manage Conda virtual environments:
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
+create virtual env with python=3.7.6
+
+'conda create -n student python=3.7.6 anaconda'
+
+we will stick to this specific python base version for all the learning & experiments
 
 jupyter notebook commands:
 ==========================
@@ -11,7 +14,7 @@ shift + Enter  run & goto next cell
 alt + Enter = run cell & insert cell below
 
 
-
+https://towardsdatascience.com/what-is-feature-scaling-why-is-it-important-in-machine-learning-2854ae877048
 
 
 
