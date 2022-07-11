@@ -13,6 +13,7 @@ shift + Enter  run & goto next cell
 
 alt + Enter = run cell & insert cell below
 
+shift + Tab = brief documentation on the selected line, command, object
 
 https://towardsdatascience.com/what-is-feature-scaling-why-is-it-important-in-machine-learning-2854ae877048
 
