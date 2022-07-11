@@ -5,7 +5,7 @@ https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.h
 
 
 jupyter notebook commands:
-
+==========================
 shift + Enter  run & goto next cell 
 
 alt + Enter = run cell & insert cell below
