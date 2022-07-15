@@ -4,7 +4,7 @@
 
 * Numpy is fast & has bindings to **C** libraries.
 
-* Installation <br> `conda install numpy` or <br> `pip install numpy`
+* Installation: <br> `conda install numpy` or <br> `pip install numpy`
 
 * There arde essentially **two types** of Numpy arrays: <br>**vectors** and <br>**metrices**
 
