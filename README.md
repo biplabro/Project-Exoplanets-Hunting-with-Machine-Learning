@@ -7,7 +7,7 @@ Learn, share, collaborate & implement.
 3. [Remarkable Markdown Editor](https://github.com/jamiemcg/Remarkable) 
 4. [Ubuntu 18.04.06 LTS x86](https://releases.ubuntu.com/18.04/) 
 
-####Virtual env setup in anaconda:
+#### Virtual env setup in anaconda:
 
 The codebase of this repo uses a specific version of python to avoid conflicts between libraries and dependancies. [Anaconda Installation Guide](https://docs.anaconda.com/anaconda/install/linux/) 
 
@@ -15,12 +15,13 @@ Creating virtual env with python 3.7.6. Using terminal, running the below comman
 
 `conda create --name student python==3.7.6 anaconda`
 
-conda create = initiate env creation
-- -name = < specify name > 
-python = < specify version >
-anaconda = < specify software packages > , in this case we want to install the entire anaconda in the virtual env.
+Summary:
+`conda create` = initiate env creation
+`--name` = < specify name > 
+`python` = < specify version >
+`anaconda` = < specify software packages > , in this case we want to install the entire anaconda in the virtual env.
 
-####Installing Software packages
+#### Installing Software packages
 
 Install the latest package
 `conda install --name student <pkg_name>`
