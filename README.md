@@ -15,7 +15,7 @@ Creating virtual env with python 3.7.6. Using terminal, running the below comman
 
 `conda create --name student python==3.7.6 anaconda`
 
-Summary:
+Summary: <br>
 `conda create` = initiate env creation <br>
 `--name` = < specify name >  <br>
 `python` = < specify version > <br>
@@ -31,7 +31,7 @@ Install a specific version of package
 
 Install a package from a specific software channel
 `conda install -c <channel_name> <package name>`
- <br>
+ <br> <br>
 **Official Anaconda Documentation** <br>
 [Managing Conda virtual Env](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) <br>
 [Managing Packages](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html)  <br>
