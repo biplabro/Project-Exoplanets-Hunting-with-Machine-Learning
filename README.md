@@ -9,7 +9,7 @@ Learn, share, collaborate & implement.
 
 #### Virtual env setup in anaconda:
 
-The codebase of this repo uses a specific version of python to avoid conflicts between libraries and dependancies. [Anaconda Installation Guide](https://docs.anaconda.com/anaconda/install/linux/) 
+The codebase of this repo uses a specific version of python to avoid conflicts between libraries and dependancies. 
 
 Creating virtual env with python 3.7.6. Using terminal, running the below command will create virtual environment. 
 
@@ -33,6 +33,7 @@ Install a package from a specific software channel
 `conda install -c <channel_name> <package name>`
  <br> <br>
 **Official Anaconda Documentation** <br>
+[Anaconda Installation Guide](https://docs.anaconda.com/anaconda/install/linux/)<br>
 [Managing Conda virtual Env](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) <br>
 [Managing Packages](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html)  <br>
 [Managing Software Channels](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-channels.html) 
