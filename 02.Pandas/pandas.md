@@ -10,4 +10,17 @@
 #### Installing Pandas
 <br>
 `conda install -n <venv_name> pandas`<br>
-`pip install pandas`<br>
+`pip install pandas`<br><br><br>
+
+
+**Topics Covered**
+
+* series
+* dataFrames
+* missing data
+* groupBy
+* merging
+* joining
+* concatenating
+* operations
+* data input & output
