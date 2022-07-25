@@ -9,7 +9,7 @@
 
 #### Installing Pandas
 <br>
-`conda install -n <venv_name> pandas`<br>
+conda install -n venv_name pandas<br>
 `pip install pandas`<br><br><br>
 
 
