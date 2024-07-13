@@ -6,7 +6,8 @@
 3. [Remarkable Markdown Editor](https://github.com/jamiemcg/Remarkable)
 4. [Ubuntu 18.04.06 LTS x86](https://releases.ubuntu.com/18.04/)
 5. [GhostWriter Markdown Editor](https://github.com/KDE/ghostwriter)
-6. [Linux Mint 21.3 x86](https://www.linuxmint.com/) 
+6. [Linux Mint 21.3 x86](https://www.linuxmint.com/)
+7. [vscodium](https://github.com/VSCodium/vscodium/)
 
 #### Virtual env setup in anaconda:
 
