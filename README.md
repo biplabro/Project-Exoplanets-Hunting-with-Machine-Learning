@@ -3,8 +3,10 @@
 ### Software used: 
 1. [Anaconda](https://www.anaconda.com/products/distribution) 
 2. [Github Desktop Client](https://github.com/shiftkey/desktop) 
-3. [Remarkable Markdown Editor](https://github.com/jamiemcg/Remarkable) 
-4. [Linux Mint 21.3 x86](https://www.linuxmint.com/) 
+3. [Remarkable Markdown Editor](https://github.com/jamiemcg/Remarkable)
+4. [Ubuntu 18.04.06 LTS x86](https://releases.ubuntu.com/18.04/)
+5. [GhostWriter Markdown Editor](https://github.com/KDE/ghostwriter)
+6. [Linux Mint 21.3 x86](https://www.linuxmint.com/) 
 
 #### Virtual env setup in anaconda:
 
