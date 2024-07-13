@@ -1,4 +1,4 @@
-# (Project) Exoplanets Hunting with Machine LearningLearn, share, collaborate & implement.
+# [Project] Exoplanets Hunting with Machine LearningLearn, share, collaborate & implement.
 ...
 ### Software used: 
 1. [Anaconda](https://www.anaconda.com/products/distribution) 
