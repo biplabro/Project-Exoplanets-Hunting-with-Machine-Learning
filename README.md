@@ -1,5 +1,5 @@
-# [Project] Exoplanets Hunting with Machine LearningLearn, share, collaborate & implement.
-...
+# [Project] Exoplanets Hunting with Machine Learning
+
 ### Software used: 
 1. [Anaconda](https://www.anaconda.com/products/distribution) 
 2. [Github Desktop Client](https://github.com/shiftkey/desktop) 
