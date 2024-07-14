@@ -8,6 +8,7 @@ Welcome to the "Exoplanets Hunting with Machine Learning" project. This wiki wil
 ---
 
 ### What is an Exoplanet?
+![Image](https://github.com/biplabro/Project-Exoplanets-Hunting-with-Machine-Learning/blob/master/assets/exo-space.gif)
 
 An [Exoplanet](https://www.space.com/17738-exoplanets.html) is any planet beyond our solar system. They are detected by astronomers by observing the intensity of their parent stars. These stars are the central points around which exoplanets orbit. Exoplanets are made up of elements similar to those of the planets in our solar system, but their mixes of those elements may differ. For instance, some exoplanets may be dominated by water or ice, while others by iron or carbon.
 
