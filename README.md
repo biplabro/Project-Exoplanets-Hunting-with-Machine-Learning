@@ -76,7 +76,7 @@ The [Kepler telescope](https://en.wikipedia.org/wiki/Kepler_space_telescope), na
 
 Kepler detects planets by observing transits, or tiny dips in the brightness of a star, caused by a planet crossing in front of it. The spacecraft monitored approximately 100,000 main-sequence stars over three and a half years.
 
-![Kepler Telescope](https://example.com/kepler-telescope.png)
+![Kepler Telescope](https://github.com/biplabro/Project-Exoplanets-Hunting-with-Machine-Learning/blob/master/assets/kepler.jpg)
 
 ---
 

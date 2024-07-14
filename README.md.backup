@@ -72,11 +72,11 @@ In this project, Transit Method is used to determine the presence of Exoplanets.
 
 #### Kepler Telescope
 
-The [Kepler telescope](, named after the German astronomer Johannes Kepler, was designed to look for planets with sizes ranging from one-half to twice the size of Earth in the habitable zone of their stars. The spacecraft's primary scientific goals included determining the abundance of these planets, estimating the number of planets in multiple-star systems, and determining the properties of stars with planetary systems.
+The [Kepler telescope](https://en.wikipedia.org/wiki/Kepler_space_telescope), named after the German astronomer Johannes Kepler, was designed to look for planets with sizes ranging from one-half to twice the size of Earth in the habitable zone of their stars. The spacecraft's primary scientific goals included determining the abundance of these planets, estimating the number of planets in multiple-star systems, and determining the properties of stars with planetary systems.
 
 Kepler detects planets by observing transits, or tiny dips in the brightness of a star, caused by a planet crossing in front of it. The spacecraft monitored approximately 100,000 main-sequence stars over three and a half years.
 
-![Kepler Telescope](https://example.com/kepler-telescope.png)
+![Kepler Telescope](https://github.com/biplabro/Project-Exoplanets-Hunting-with-Machine-Learning/blob/master/assets/kepler.jpg)
 
 ---
 
