@@ -8,9 +8,15 @@ Welcome to the "Exoplanets Hunting with Machine Learning" project. This wiki wil
 ---
 
 ### What is an Exoplanet?
-![Image](https://github.com/biplabro/Project-Exoplanets-Hunting-with-Machine-Learning/blob/master/assets/exo-space.gif)
+![Exoplanet](https://github.com/biplabro/Project-Exoplanets-Hunting-with-Machine-Learning/blob/master/assets/exo-space.gif)
 
 An [Exoplanet](https://www.space.com/17738-exoplanets.html) is any planet beyond our solar system. They are detected by astronomers by observing the intensity of their parent stars. These stars are the central points around which exoplanets orbit. Exoplanets are made up of elements similar to those of the planets in our solar system, but their mixes of those elements may differ. For instance, some exoplanets may be dominated by water or ice, while others by iron or carbon.
+
+---
+
+### Why Hunt for Exoplanets?
+
+Observing exoplanets allows us to determine whether we truly understand planetary processes, even in our own solar system. Most stellar systems observed so far do not resemble our solar system. Discovering exoplanets opens up a vast exploration area to search for other habitable worlds and increases the likelihood that we are not alone in the universe. This search is also linked to the [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox), which questions why, given the vast number of stars and potentially habitable planets, we have not yet encountered evidence of extraterrestrial civilizations. By studying exoplanets, we hope to gain insights that could help address this profound question.
 
 ---
 
@@ -22,26 +28,43 @@ Exoplanets come in a wide variety of sizes, from gas giants larger than Jupiter 
 
 ### History of Exoplanet Detection
 
-- **19th Century**: Early claims of exoplanet detection were made by William Jacob in 1855, who observed deviations in the orbits within the nearby 70 Ophiuchi binary star system.
+- **19th Century**: Early claims of exoplanet detection were made by William Jacob in 1855, who observed deviations in the orbits within the nearby [70 Ophiuchi](https://en.wikipedia.org/wiki/70_Ophiuchi) binary star system.
 - **1917**: The first time we detected an exoplanet was by NASA's Jet Propulsion Laboratory, but it wasn't confirmed.
-- **1995**: The first confirmed planet orbiting a star similar to our Sun was found. This planet was at least half the mass of Jupiter and no more than twice its mass.
-- **Present**: We live in an era of exoplanets. The count of confirmed exoplanets is in the thousands and rising, which is just a small sampling of our galaxy. The number could rise to tens of thousands within a decade as we enhance the number and observing power of robotic telescopes launched into space.
-
----
-
-### Why Hunt for Exoplanets?
-
-Observing exoplanets allows us to determine whether we truly understand planetary processes, even in our own solar system. Most stellar systems observed so far do not resemble our solar system. Discovering exoplanets opens up a vast exploration area to search for other habitable worlds and increases the likelihood that we are not alone in the universe.
+- **1995**: The first confirmed exoplanet [Dimidium](https://science.nasa.gov/universe/exoplanets/nobel-winners-changed-our-understanding-with-exoplanet-discovery/) orbiting a star similar to our Sun was found. This planet was at least half the mass of Jupiter and no more than twice its mass.
+- **Present**: We live in an era of exoplanets. The count of confirmed exoplanets is in the thousands and rising, which is just a small sampling of our galaxy. The number could rise to tens of thousands within a decade as we enhance the number and observing power of robotic [telescopes launched](https://en.wikipedia.org/wiki/List_of_space_telescopes) into space.
 
 ---
 
 ### Methods to Detect Exoplanets
 
-#### Transit Method
+![Exoplanet detection methods](https://github.com/biplabro/Project-Exoplanets-Hunting-with-Machine-Learning/blob/master/assets/Exoplanet_detection_methods_pillars.jpg)
 
-The transit method is a photometric method that aims to indirectly detect the presence of one or more exoplanets in orbit around a star. This method involves regularly measuring the luminosity of a star to detect the periodic decrease in brightness associated with an exoplanet's transit. By examining the light dip caused by a planet, scientists can determine the planet's size and its orbital period.
+1. **Transit Method**:
+   - The transit method involves observing the dimming of a star's light when a planet passes in front of it. By measuring the amount of dimming and the duration of the transit, astronomers can determine the planet's size and its orbital period.
 
-![Transit Method](https://example.com/transit-method.png)
+2. **Radial Velocity (Doppler) Method**:
+   - This technique measures variations in the speed at which a star moves towards or away from Earth. These variations are caused by the gravitational pull of an orbiting planet, allowing astronomers to estimate the planet's mass and orbit.
+
+3. **Direct Imaging**:
+   - Direct imaging involves capturing pictures of exoplanets by blocking out the star's light. This method is challenging due to the brightness of stars compared to planets, but it provides direct observation of the planet and its atmosphere.
+
+4. **Gravitational Microlensing**:
+   - This technique takes advantage of the gravitational lens effect, where a planet's gravity acts as a lens, magnifying the light of a distant star behind it. This method can detect planets that are far from their host stars, even those in other galaxies.
+
+5. **Astrometry**:
+   - Astrometry measures the precise movements of a star in the sky. A star with an orbiting planet will wobble slightly due to the gravitational influence of the planet. By tracking these tiny movements, astronomers can infer the presence of a planet.
+
+6. **Pulsar Timing**:
+   - This method involves monitoring the regular pulses of a pulsar (a highly magnetized rotating neutron star). If a planet orbits the pulsar, it will cause variations in the timing of the pulses, revealing the planet's presence.
+
+7. **Transit Timing Variations (TTV)**:
+   - TTV is used to detect additional planets in a system where one planet is already known to transit. The gravitational interactions between planets cause slight variations in the timing of their transits, which can be used to infer the presence of additional planets.
+
+#### Exoplanet Detection Using Transit Method
+
+In this project, Transit Method is used to determine the presence of Exoplanets. The transit method is a photometric method that aims to indirectly detect the presence of one or more exoplanets in orbit around a star. This method involves regularly measuring the luminosity of a star to detect the periodic decrease in brightness associated with an exoplanet's transit. By examining the light dip caused by a planet, scientists can determine the planet's size and its orbital period.
+
+![Transit Method](https://github.com/biplabro/Project-Exoplanets-Hunting-with-Machine-Learning/blob/master/assets/transiting-exoplanet-with-brightness-graph-anim.gif)
 
 ---
 
@@ -49,7 +72,7 @@ The transit method is a photometric method that aims to indirectly detect the pr
 
 #### Kepler Telescope
 
-The Kepler spacecraft, named after the German astronomer Johannes Kepler, was designed to look for planets with sizes ranging from one-half to twice the size of Earth in the habitable zone of their stars. The spacecraft's primary scientific goals included determining the abundance of these planets, estimating the number of planets in multiple-star systems, and determining the properties of stars with planetary systems.
+The [Kepler telescope](https://en.wikipedia.org/wiki/Kepler_space_telescope), named after the German astronomer Johannes Kepler, was designed to look for planets with sizes ranging from one-half to twice the size of Earth in the habitable zone of their stars. The spacecraft's primary scientific goals included determining the abundance of these planets, estimating the number of planets in multiple-star systems, and determining the properties of stars with planetary systems.
 
 Kepler detects planets by observing transits, or tiny dips in the brightness of a star, caused by a planet crossing in front of it. The spacecraft monitored approximately 100,000 main-sequence stars over three and a half years.
 
