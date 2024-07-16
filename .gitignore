@@ -1,1 +1,6 @@
-*.md.backup
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.md.backup
+*/.md.backup/*
+
